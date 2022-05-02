@@ -20,6 +20,7 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+3. choose
 
 **Bold** and _Italic_ and `Code` text
 
